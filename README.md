@@ -45,7 +45,7 @@
 ---
 
 ### 📫 Como me encontrar:
-- GitHub: https://github.com/SEU-USUARIO  
+- GitHub: https://github.com/coutinhoguilhermedevolper-commits
 - LinkedIn: (adicione aqui quando tiver)
 
 ---
